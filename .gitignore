@@ -1,4 +1,4 @@
 .venv
 
-*.xlsx
+# *.xlsx
 !tabela_lojas_rotas.xlsx
